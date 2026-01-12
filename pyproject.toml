@@ -1,0 +1,8 @@
+[project]
+name = "shap-adverse-action"
+version = "0.1.0"
+description = "Illustrative per-customer SHAP driven adverse action reasons, synthetic data only."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
