@@ -9,6 +9,7 @@ All figures here (the validation match rate, the lookback windows, the reason co
 Pages:
 
 - [The problem](Problem.md)
+- [Goals and measurement](Goals-and-Measurement.md)
 - [Stakeholders](Stakeholders.md)
 - [The fix](The-Fix.md)
 - [Validation and outcomes](Validation-and-Outcomes.md)

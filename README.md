@@ -9,6 +9,7 @@ Everything in this repo uses synthetic, invented data. Real customer records, re
 ## What's here
 
 - [The problem](wiki/Problem.md), what the adverse action pipeline actually looked like and where it broke
+- [Goals and measurement](wiki/Goals-and-Measurement.md), what we were optimizing for and how we measured against each goal
 - [Stakeholders](wiki/Stakeholders.md), who was in the room and how the work got split
 - [The fix](wiki/The-Fix.md), the direction bug, the selection bug, and the data and pipeline hardening that went with them
 - [Validation and outcomes](wiki/Validation-and-Outcomes.md), how this got proven out before it shipped, and what changed
